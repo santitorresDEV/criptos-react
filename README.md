@@ -1,8 +1,16 @@
-# React + Vite
+# COTIZADOR DE CRIPTOMONEDAS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React project using Vite, Styled Components, and Custom Hooks
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a modern web application built with React, Vite, Styled Components, and custom hooks. It serves as an example of how to create a clean and maintainable codebase while utilizing the power of styled components for styling and custom hooks for code reusability.
+
+## Features
+
+- React for building user interfaces.
+- Vite for fast development and optimized builds.
+- Styled Components for writing component-specific CSS.
+- Custom hooks for managing common functionality.
+- A responsive and visually appealing design.
+- A well-structured project folder.
